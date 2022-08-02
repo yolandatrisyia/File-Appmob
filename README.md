@@ -1,4 +1,6 @@
-# File-Appmob
-Aplikasi Berbasis Sistem Operasi Android
-Aplikasi ini bisa didownload/diakses oleh siapapun
-Aplikasi ini menyajikan informasi-informasi objek wisata yang ada di Provinsi Riau
+# File-KP
+Sistem Informasi berbasis WEB
+Sistem berfungsi untuk melakukan proses ticketing
+User melakukan pemesanan tiket melalui sistem 
+User melakukan proses transfer ke nomor rekening yang sudah tersedia
+User dapat mendownload e-tiket ketika sudah melakukan proses pembayaran
